@@ -1,6 +1,6 @@
 <div align="center">   
   
-# RadarDistill: Boosting Radar-based Object Detection Performance via Knowledge Distillation from LiDAR Features, CVPR 2024
+# RadarDistill: Boosting Radar-based Object Detection Performance via Knowledge Distillation from LiDAR Features
 </div>
 
 > - [Paper in arXiv]([https://arxiv.org/abs/2403.05061)
